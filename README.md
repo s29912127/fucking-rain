@@ -1,4 +1,4 @@
-# fucking-rain
+
 ```
 sudo vim /etc/rc.local
 
